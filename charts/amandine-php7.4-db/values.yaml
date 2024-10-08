@@ -6,6 +6,6 @@ MariadbReplicas: 1
 MariadbImageTag: latest
 MariadbDiskSize: 3Gi
 MariadbServerId: 2
-MariadbDbName: mydatabase
-MariadbDbUser: username
+MariadbDbName: lafamill
+MariadbDbUser: lafamill
 MariadbDbPort: 3306
